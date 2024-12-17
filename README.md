@@ -44,9 +44,9 @@ A really simple backend template built with FastAPI, designed to jumpstart your 
      ```plaintext
      POSTGRES_USER=postgres
      POSTGRES_PASSWORD=default15p
-     POSTGRES_HOST=postgres_rest_template
+     POSTGRES_HOST=pg_pyapitemplate
      POSTGRES_PORT=8003
-     POSTGRES_DB=rest_template
+     POSTGRES_DB=pyapitemplate_core
      ```
 
    Feel free to change the values in the `.env` files based on your needs.
